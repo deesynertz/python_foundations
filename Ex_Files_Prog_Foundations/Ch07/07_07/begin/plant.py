@@ -9,4 +9,3 @@ def plant_recommendation(care):
 plant_rec('low')
 plant_recommendation('medium')
 plant_recommendation('high')
-
